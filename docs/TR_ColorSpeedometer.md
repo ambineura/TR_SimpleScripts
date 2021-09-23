@@ -1,5 +1,5 @@
 # TR_ColorSpeedometer
-## [[установить юзерскрипт]](../../raw/main/TR_ColorSpeedometer.user.js) [[сказать «спасибо»]](https://typeracer.ru/profile/5/)
+## [[установить юзерскрипт]](../../../raw/main/TR_ColorSpeedometer.user.js) [[сказать «спасибо»]](https://typeracer.ru/profile/5/)
 
 Этот микроскрипт предназначен для окрашивания спидометра разным цветом в зависимости от скорости.
 
